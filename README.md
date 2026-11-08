@@ -1,9 +1,9 @@
 <div align="center">
 
-# Merhaba, ben archziwski 👋
+# naber ben arch
 
-Minecraft, Java, altyapı, performance ve güvenlik odaklı projeler üretiyorum.
-Kendi araçlarımı geliştiriyor, açık kaynak ekosisteminde pratik çözümler üretiyorum.
+optimize java minecraft pluginleri yada sunucu softwareleri yapıyorum
+
 
 <p align="left">
   <a href="https://github.com/archziwski">
@@ -15,27 +15,27 @@ Kendi araçlarımı geliştiriyor, açık kaynak ekosisteminde pratik çözümle
 
 ## 👨‍💻 Hakkımda
 
-- Java ve Minecraft ekosistemine odaklı geliştirici
-- Sunucu altyapısı, plugin geliştirme ve optimizasyon üzerine çalışma
-- Performans, güvenlik ve kullanım kolaylığı hedefleyen çözümler üretme
-- Açık kaynak projelerde deneyim ve öğrenme odaklı çalışma
+- minecraftın bedrock ve java versiyonlarına odaklı sunucu ve pluginler yazıyorum (bunla kalmıyorum)
+- işimi optimize ve düzenli yapıyorum
+- performans a dikkat ederim
+- keyfime göre projeler yapıyorum işte
 
 ## 🚀 Çalışma alanlarım
 
 - Java
-- Minecraft Plugin Geliştirme
-- Performance Tuning
-- API Tasarımı
-- Güvenlik Modülü ve Bot Engelleme Çözümleri
-- Folia / Server Optimization
-- Altyapı ve sistem entegrasyonu
+- Bedrock
+- Performans
+- APIlar
+- Minecraft'ın eksikliklerini düzeltme
+- Optimizasyon
+- bu kadar
 
 ## 📦 Öne çıkan projeler
 
-- `TabelaAPI` — Minecraft için tablaları kolay ve etkili şekilde kullanmanızı sağlayan API
-- `CaptchaPlus` — TabelaAPI tabanlı güvenlik plugini
-- `WestFolia` — Folia için agresif optimize edilmiş deneysel fork
-- `archziwski.github.io` — profil ve kişisel sayfa alanı
+- `TabelaAPI` — minecraft için tabelları kolay ve etkili şekilde kullanmanızı sağlayan API
+- `CaptchaPlus` — tabela api ile yapılmış dogrulama plugini (safe ve data guvenli)
+- `WestFolia` — folia'nın agresifçe optimize edilmiş forku
+- `archziwski.github.io` — portfolyom
 
 ## 📊 GitHub istatistikleri
 
@@ -57,9 +57,7 @@ Kendi araçlarımı geliştiriyor, açık kaynak ekosisteminde pratik çözümle
 - [WestFolia](https://github.com/archziwski/WestFolia)
 - [archziwski.github.io](https://github.com/archziwski/archziwski.github.io)
 
-## 💬 Kısa slogan
-
-"Kolay, hızlı ve güvenli çözümler; kodla, optimize et, geliştir."
+## bu kadar :=
 
 ---
 
