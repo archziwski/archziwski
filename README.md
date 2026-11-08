@@ -55,7 +55,7 @@ optimize java minecraft pluginleri yada sunucu softwareleri yapıyorum
 - [TabelaAPI](https://github.com/archziwski/TabelaAPI)
 - [CaptchaPlus](https://github.com/archziwski/CaptchaPlus)
 - [WestFolia](https://github.com/archziwski/WestFolia)
-- [archziwski.github.io](https://github.com/archziwski/archziwski.github.io)
+- [Portfolyom](https://archziwski.github.io/)
 
 ## bu kadar :=
 
