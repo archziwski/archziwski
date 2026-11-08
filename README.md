@@ -59,8 +59,6 @@ optimize java minecraft pluginleri yada sunucu softwareleri yapıyorum
 
 ## bu kadar :=
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Java+Developer;Minecraft+Plugin+Engineer;Performance+Focused;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
